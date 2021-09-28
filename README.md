@@ -1,16 +1,15 @@
 # Program Hill Cipher Matriks 2x2
 
-<p>
-  Nama  : Devara Hifzhurrahman  140810190019
-          Mochamad Arya Bima    140810190031
-          Marvin Luckianto      140810190043
-  Kelas : A
-</p>
+Nama  :</br> 
+Devara Hifzhurrahman  (140810190019)</br>
+Mochamad Arya Bima    (140810190031)</br>
+Marvin Luckianto      (140810190043)</br>
+Kelas : A</br>
 
-Hasil Program</br>
+### Hasil Program
 Enkripsi</br>
 ![Alt text](/asset/encrypt.PNG?raw=true "Optional Title")
-Dekripsi</br>
+</br>Dekripsi</br>
 ![Alt text](/asset/decrypt.PNG?raw=true "Optional Title")
-Find Key</br>
+</br>Find Key</br>
 ![Alt text](/asset/findkey.PNG?raw=true "Optional Title")
