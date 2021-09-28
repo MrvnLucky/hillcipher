@@ -274,14 +274,15 @@ void findKey()
   system("cls");
 }
 
+void insertKey(int key[2][2]){
+  cout << "Enter 2x2 matrix key :\n";
+  cin >> key[0][0] >> key[0][1] >> key[1][0] >> key[1][1];
+}
+
 int main()
 {
   bool menuActive = true;
   int key[2][2];
-  key[0][0] = 5;
-  key[0][1] = 3;
-  key[1][0] = 5;
-  key[1][1] = 4;
   string plain, cipher;
   int pil;
   while (menuActive)
@@ -297,6 +298,7 @@ int main()
     switch (pil)
     {
     case 1:
+      insertKey(key);
       cout << "\nInput Plaintext: ";
       cin.ignore();
       getline(cin, plain);
