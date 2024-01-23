@@ -1,10 +1,3 @@
-/**
- * Nama : Devara Hifzhurrahman  140810190019
- *        Mochamad Arya Bima    140810190031
- *        Marvin Luckianto      140810190043
- * Kelas: A
- */
-
 #include <iostream>
 #include <string>
 #include <windows.h>
